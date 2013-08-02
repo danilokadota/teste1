@@ -1,0 +1,14 @@
+/*documento css*/
+.top_div{
+	position:absolute;
+	height:80px;
+	width:100%;
+	background-color:#FF0000;
+	border:10px solid #000000;
+}
+a{
+	font-family:arial;
+	font-size:20px;
+	color:#ff0000;
+}
+

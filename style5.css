@@ -1,0 +1,24 @@
+/*documento css*/
+.frutas{
+		color:#ff0000;
+		font-family:arial;
+		font-size:15px;
+		text-decoration:none;
+		font-weight:bold;
+		
+}
+
+.legumes{
+	color:#0000ff;
+	font-family:arial;
+	font-size:15px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+span.frase{
+	font-family:arial;
+	font-size:20px;
+	color:#00000
+}
+	
